@@ -4,3 +4,9 @@
 
 https://6-4-0--reactstrap.netlify.app/components/modals/
 
+......#42 CRUD React 6 - Xóa Users (DELETE) và Sử Dụng Emitter bắn Event.....
+
+Trong video này, chúng ta sẽ cùng nhau hoàn thiện chức năng xóa người dùng (DELETE) khi thực hiện một CRUD với React.js. Ngoài ra, chúng ta cũng tìm hiểu về 'Emitter', một cách bắn Events của Node.js để có thể fix lỗi Modal tạo người dùng không clear dữ liệu sau khi tạo mới.Chi tiết, cụ thể như thế nào thì các bạn theo dõi video nha ^^
+
+👉 Đây là video 06 trong serires học nhanh CRUD với ReactJS 
+
