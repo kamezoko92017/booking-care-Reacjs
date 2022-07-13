@@ -10,3 +10,13 @@ Trong video này, chúng ta sẽ cùng nhau hoàn thiện chức năng xóa ngư
 
 👉 Đây là video 06 trong serires học nhanh CRUD với ReactJS 
 
+........#43 CRUD React 7 - Cập Nhật Thông Tin User (UPDATE) ...........
+
+Trong video này, chúng ta sẽ cùng nhau tạo modal Edit Thông tin người dùng. Tương tự như cách thêm mới người dùng và sửa người dùng khi chúng ta làm CRUD với Node.js, khi người dùng nhấn vào nút Sửa, chúng ta sẽ hiện modal ghi thông tin người dùng được phép sửa, người dùng nhấn xác nhận sửa thì thông tin sửa sẽ được cập nhật.
+
+Thông tin chi tiết, cụ thể, các bạn theo dõi video này nhé ^^
+
+👉 Đây là video 07 trong serires học nhanh CRUD với ReactJS 
+
+
+
