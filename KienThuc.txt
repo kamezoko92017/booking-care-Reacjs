@@ -22,6 +22,10 @@ Thông tin chi tiết, cụ thể, các bạn theo dõi video này nhé ^^
 
 Trong video này, chúng ta sẽ cùng nhau phân tích bố cục giao diện trang web bookingcare.vn, từ đấy clone thành giao diện react của chúng ta. Ngoài ra, ở đầu video , mình sẽ hướng dẫn các bạn cách khắc phục lỗi CORS khi dùng React gọi APIs của Node.js.
 
+......#45 Design Banner - Clone BookingCare Phần 2...................
+
+Trong video này, chúng ta sẽ tiếp tục clone giao diện website Bookingcare.vn , cụ thể là thiết kế giao diện header và ảnh banner background. Cụ thể, chúng ta sẽ dùng CSS Flex để có thể chia layout một cách nhanh nhất và dễ nhất.
+
 
 
 
