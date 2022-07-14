@@ -18,5 +18,10 @@ Thông tin chi tiết, cụ thể, các bạn theo dõi video này nhé ^^
 
 👉 Đây là video 07 trong serires học nhanh CRUD với ReactJS 
 
+.......#44 Phân Tích Các Bước Design Giao Diện & Design Header.............
+
+Trong video này, chúng ta sẽ cùng nhau phân tích bố cục giao diện trang web bookingcare.vn, từ đấy clone thành giao diện react của chúng ta. Ngoài ra, ở đầu video , mình sẽ hướng dẫn các bạn cách khắc phục lỗi CORS khi dùng React gọi APIs của Node.js.
+
+
 
 
