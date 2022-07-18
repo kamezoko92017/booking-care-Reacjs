@@ -30,6 +30,11 @@ Trong video này, chúng ta sẽ tiếp tục clone giao diện website Bookingc
 
 Trong video này, chúng ta sẽ hoàn thiện giao diện Header của website cũng như chỉnh background sao cho giống với giao diện của Bookingcare.vn . Ngoài ra chúng ta cũng sẽ bắt đầu khai báo file dịch (translation) để website có thể hiển thị được 2 ngôn ngữ song song là Tiếng Anh và Tiếng Việt
 
+.......#47 Sử Dụng Redux Để Chuyển Đổi Ngôn Ngữ Trong React App...............
+
+Trong video này, chúng ta sẽ cùng nhau tìm hiểu cách sử dụng Redux để có thể lưu ngôn ngữ đang sử dụng của website, từ đây làm webiste hiển thị được đúng ngôn ngữ chúng ta lựa chọn, tiếng anh hoặc tiếng việt tại một thời điểm mà không cần phải reload (tải lại trang).
+
+
 
 
 
