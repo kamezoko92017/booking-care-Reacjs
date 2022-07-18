@@ -26,6 +26,11 @@ Trong video này, chúng ta sẽ cùng nhau phân tích bố cục giao diện t
 
 Trong video này, chúng ta sẽ tiếp tục clone giao diện website Bookingcare.vn , cụ thể là thiết kế giao diện header và ảnh banner background. Cụ thể, chúng ta sẽ dùng CSS Flex để có thể chia layout một cách nhanh nhất và dễ nhất.
 
+.......#46 Hoàn Tất Giao Diện Header Đa Ngôn Ngữ - Clone BookingCare 3........
+
+Trong video này, chúng ta sẽ hoàn thiện giao diện Header của website cũng như chỉnh background sao cho giống với giao diện của Bookingcare.vn . Ngoài ra chúng ta cũng sẽ bắt đầu khai báo file dịch (translation) để website có thể hiển thị được 2 ngôn ngữ song song là Tiếng Anh và Tiếng Việt
+
+
 
 
 
