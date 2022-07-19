@@ -42,6 +42,12 @@ Trong video này, chúng ta sẽ cùng nhau tích hợp thư viện React-Slick 
 npm install --save react-slick@0.28.1
 npm install --save slick-carousel@1.8.1
 
+.......#49 Customize Tùy Chỉnh React-Slider-Carousel Trong React App...........
+
+Trong video này, chúng ta sẽ cùng nhau Customize tùy chỉnh thư viện React slider để tạo nên một carousel đẹp giống như trang bookingcare.vn
+
+
+
 
 
 
