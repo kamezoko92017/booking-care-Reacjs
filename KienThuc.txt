@@ -34,7 +34,13 @@ Trong video này, chúng ta sẽ hoàn thiện giao diện Header của website 
 
 Trong video này, chúng ta sẽ cùng nhau tìm hiểu cách sử dụng Redux để có thể lưu ngôn ngữ đang sử dụng của website, từ đây làm webiste hiển thị được đúng ngôn ngữ chúng ta lựa chọn, tiếng anh hoặc tiếng việt tại một thời điểm mà không cần phải reload (tải lại trang).
 
+........#48 Tích Hợp Thư Viện React-Slider-Carousel Trong React App.................
 
+Trong video này, chúng ta sẽ cùng nhau tích hợp thư viện React-Slick để tạo hiệu ứng Slider Carousel, xem trước (next) cũng như lùi lại (back) các ảnh trong 1 slider.
+
+🎁 Cài đặt thư viện sử dụng trong video:
+npm install --save react-slick@0.28.1
+npm install --save slick-carousel@1.8.1
 
 
 
