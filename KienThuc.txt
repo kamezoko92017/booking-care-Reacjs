@@ -46,6 +46,14 @@ npm install --save slick-carousel@1.8.1
 
 Trong video này, chúng ta sẽ cùng nhau Customize tùy chỉnh thư viện React slider để tạo nên một carousel đẹp giống như trang bookingcare.vn
 
+..........#50 Hoàn Thiện Giao Diện Clone BookingCare.vn 3..........
+
+Trong video này, chúng ta sẽ cùng nhau hoàn thiện giao diện website, và cụ thể ở đây là hoàn thiện thêm Section Cơ sở y tế nổi bật, Bác sĩ nổi bật tuần qua và Cẩm nang.
+
+
+
+
+
 
 
 
