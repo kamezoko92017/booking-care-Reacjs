@@ -43,12 +43,13 @@ class App extends Component {
     }
 
     render() {
+
         return (
             <Fragment>
                 <Router history={history}>
                     <div className="main-container">
                         <ConfirmModal />
-                        {this.props.isLoggedIn && <Header />}
+
 
                         <div className="content-container">
                             <CustomScrollbars style={{ height: '100vh', width: '100%' }}>
@@ -77,7 +78,7 @@ class App extends Component {
 const mapStateToProps = state => {
     return {
         started: state.app.started,
-        isLoggedIn: state.user.isLoggedIn
+
     };
 };
 
