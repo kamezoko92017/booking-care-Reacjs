@@ -58,6 +58,12 @@ Trong video này, chúng ta sẽ hoàn tất việc design giao diện theo tran
 
 Trong video này, chúng ta tùy chỉnh menu Header của admin để hiển thị song song hai ngôn ngữ tiếng việt và tiếng anh, cũng như chúng ta sẽ thêm một component mới để chuẩn bị cho việc học CRUD với React và Redux
 
+..........#54 Phép Màu Khiến Redux Là Lựa Chọn Number 1 với React App ...........
+
+Tại sao PHẢI DÙNG REDUX trong REACT APP, Redux có gì khác so với LOCAL STORAGE. Video này sẽ giúp các bạn giải đáp thắc mắc về Redux trước khi bắt tay vào sử dụng Redux cũng như hiểu được phép màu phía sau giúp Redux được sử dụng rộng rãi trong React app.
+
+
+
 
 
 
