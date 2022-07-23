@@ -62,6 +62,15 @@ Trong video này, chúng ta tùy chỉnh menu Header của admin để hiển th
 
 Tại sao PHẢI DÙNG REDUX trong REACT APP, Redux có gì khác so với LOCAL STORAGE. Video này sẽ giúp các bạn giải đáp thắc mắc về Redux trước khi bắt tay vào sử dụng Redux cũng như hiểu được phép màu phía sau giúp Redux được sử dụng rộng rãi trong React app.
 
+...........#55 Hoàn Thiện Menu Phân Quyền Dành Cho Admin..............
+
+Admin cần có 4 chức năng: 
+- Quản lý người dùng
+- Quản lý phòng khám
+- Quản lý chuyên khoa
+- Quản lý bài đăng
+
+Trong video này, chúng ta sẽ cùng nhau cập nhật menu của admin, để hiển thị thêm tên của người đang đăng nhập cũng như là hiển thị các chức năng tức ứng với vai trò của người quản trị
 
 
 
