@@ -72,6 +72,11 @@ Admin cần có 4 chức năng:
 
 Trong video này, chúng ta sẽ cùng nhau cập nhật menu của admin, để hiển thị thêm tên của người đang đăng nhập cũng như là hiển thị các chức năng tức ứng với vai trò của người quản trị
 
+..........#56 Design Responsive Form Tạo Mới Người Dùng Đa Ngôn Ngữ ...............
+
+Trong video này, chúng ta sẽ cùng nhau sử dụng Bootstrap 4 để có thể design nhanh một form responsive có đầy đủ thông tin để tạo mới người dùng. Trong form này, chúng ta cũng load động data theo thông tin lấy từ database, từ đấy, ở các video tiếp theo, chúng ta có thể kết hợp với api để tạo mới người dùng luôn.
+
+
 
 
 
